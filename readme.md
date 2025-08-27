@@ -56,6 +56,11 @@ You can configure the preprocessing steps by modifying the variables in the foll
 
 ## Installing Packages
 
+ Open terminal or command prompt, navigate to the project's root directory, and run the following command to install the packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 
 ## Execution Instructions
 
