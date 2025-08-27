@@ -54,6 +54,9 @@ You can configure the preprocessing steps by modifying the variables in the foll
     -   `APPLY_HAIR_REMOVAL`: Enable or disable hair removal.
         -   Options: `True` or `False`.
 
+## Installing Packages
+
+
 ## Execution Instructions
 
 ### 1. Data Preparation
